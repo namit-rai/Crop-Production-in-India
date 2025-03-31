@@ -25,6 +25,11 @@ Unified Mentor
 # Dataset Details
 7 columns and 246092 rows.
 
+# KPIS
+Total Agricultural Production was 141.18Bn 
+Top 2 crops were Coconut at 150Bn and Sugarcane at 130Bn.
+Whole Year Production contributes to about 95.22% of total Production
+
 
 # Data Preprocessing
 Typecasting was performed on several columns to ensure proper data types. 
@@ -35,7 +40,7 @@ https://github.com/namit-rai/Crop-Production-in-India/blob/main/crop%20productio
 
 # Data Visualizaton and Dashboard
 https://github.com/namit-rai/Crop-Production-in-India/blob/main/crop%20production%20P.BI.pbix
-
+https://github.com/namit-rai/Crop-Production-in-India/blob/main/Dashboard.png
 
 # Tools Used
 Python and Power BI were utilized for data cleaning, analysis, and visualization
